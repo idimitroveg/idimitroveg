@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ivo Dimitrov 👋
+Civil Engineer | Structural Design | Computational Engineering
 
--->
-**idimitroveg/idimitroveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I combine structural engineering expertise with data science and software development to build smarter, more efficient engineering solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗 Civil Engineer specializing in structural design
+- 🧠 Passionate about data-driven engineering and automation
+- 💻 Developing custom tools for structural analysis and workflows
+- 📊 Exploring Machine Learning applications in engineering
+
+## 🛠 Tools & Technologies
+
+**Engineering:**
+- Tekla Structures, ETABS, SAP2000, Rhino
+
+**Programming & Data:**
+- Python, Pandas, NumPy
+- Machine Learning, Data Science
+
+**Other:**
+- Advanced Excel (VBA, automation)
+
+## 📌 Featured Projects
+
+### 🔹 Structural Optimization Tool
+Python-based tool for optimizing structural elements using data-driven methods.
+
+### 🔹 Excel-Based Design Automation
+Automated reinforced concrete design workflows using advanced Excel + VBA.
+
+### 🔹 3D Modeling Workflows
+Parametric modeling scripts using Rhino/Grasshopper.
