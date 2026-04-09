@@ -38,11 +38,9 @@ I combine structural engineering expertise with data science and software develo
 
 ## 📌 Featured Projects
 
-### 🔹 Structural Optimization Tool
-Python-based tool for optimizing structural elements using data-driven methods.
+### 🔹 AutoCAD to Excel Automation Tool
+Python tool that converts .xls file data exported from AutoCAD exports into structured Excel files for engineering workflows. Reads marks on a rebar and calculates its weight.
 
 ### 🔹 Excel-Based Design Automation
 Automated reinforced concrete design workflows using advanced Excel + VBA.
 
-### 🔹 3D Modeling Workflows
-Parametric modeling scripts using Rhino/Grasshopper.
