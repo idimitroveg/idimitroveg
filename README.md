@@ -26,9 +26,17 @@ I combine structural engineering expertise with data science and software develo
 
 **Programming & Data:**
 
-<a href="https://www.python.org/">
-  <img height="40" src="https://cdn.simpleicons.org/python"/>
-</a>
+<p align="left">
+  <a href="https://www.python.org/">
+    <img height="40" src="https://cdn.simpleicons.org/python"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img height="40" src="https://cdn.simpleicons.org/numpy"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img height="40" src="https://cdn.simpleicons.org/pandas"/>
+  </a>
+</p>
 
 - Python, Pandas, NumPy
 - Machine Learning, Data Science
@@ -40,6 +48,7 @@ I combine structural engineering expertise with data science and software develo
 
 ### 🔹 AutoCAD to Excel Automation Tool
 Python tool that converts .xls file data exported from AutoCAD exports into structured Excel files for engineering workflows. Reads marks on a rebar and calculates its weight.
+[View Repository](https://github.com/idimitroveg/autocad-to-excel-automation)
 
 ### 🔹 Excel-Based Design Automation
 Automated reinforced concrete design workflows using advanced Excel + VBA.
